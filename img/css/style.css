@@ -1,0 +1,58 @@
+  nav{
+    color: black;
+    font-style: italic;
+    word-spacing: 10px;
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+  }
+  body {
+    background-color: rgba(116, 10, 10, 0.877);
+    text-align: center;
+  }
+  h1 {
+    color: blanchedalmond;
+    font-style: italic;
+    word-spacing: 10px;
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+  }
+  h2{
+        color: blanchedalmond;
+        font-style: italic;
+        word-spacing: 10px;
+        font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+  }
+  .z>h5{
+    color: blanchedalmond;
+    font-style: italic;
+    word-spacing: 10px;
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+    text-align: left;
+  }
+  .z>pre{
+    color: blanchedalmond;
+    font-style: italic;
+    word-spacing: 10px;
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+    text-align: left;
+  }
+  .k>h5{
+    color: blanchedalmond;
+    font-style: italic;
+    word-spacing: 10px;
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+    text-align: center;
+  }
+  p{
+    color: blanchedalmond;
+    font-style: italic;
+    word-spacing: 10px;
+    font-size: larger;
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+    text-align: center;
+  }
+  pre{
+    color: blanchedalmond;
+    font-style: italic;
+    word-spacing: 10px;
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+    text-align: center;
+  }

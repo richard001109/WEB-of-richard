@@ -1,0 +1,35 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background: url("img/05.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+    -moz-background-size: cover;    /* 针对Firefox浏览器 */
+    -o-background-size: cover;      /* 针对Operallq */
+    background-size: cover;         /* 通用 */
+}
+
+.top-nav-collapse {
+  background-color: #24355C;
+}
+h2{
+    color: rgb(134, 168, 230);
+    font-style: italic;
+    word-spacing: 10px;
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+}
+body {
+    background-color: rgba(194, 216, 191, 0.877);
+    text-align: center;
+}
+p{
+    color: rgb(10, 19, 16);
+    font-style: italic;
+    font-size: larger;
+    word-spacing: 10px;
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+}
